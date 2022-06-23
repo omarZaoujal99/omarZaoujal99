@@ -1,4 +1,8 @@
-# Omar Zaoujal
+![banner (1)](https://user-images.githubusercontent.com/71842820/175347571-57b1e030-4ce6-4b42-b29d-b8c18a5584c9.png)
+
+
+</br>
+
 ### Oz99, 22yo, full stack javascript developer with so much proudness 🤙
 ##### ✔️ It doesn't matter how much problems you have, all what you have to care about is the way you handle with its...  ✔️
 
@@ -27,34 +31,35 @@
 </br>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" **alt="jquery" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" **alt="express" width="80" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" **alt="jira" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
-</div>
+![](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&color=f0410f)
+![](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&color=1187ff)
+![](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=javascript&color=ffff00)
+![](https://img.shields.io/badge/Code-typescript-informational?style=flat&logo=typescript&color=0072e4)
+![](https://img.shields.io/badge/Code-jquery-informational?style=flat&logo=jquery&color=0072e4)
+![](https://img.shields.io/badge/Code-react-informational?style=flat&logo=react&color=5dceed)
+![](https://img.shields.io/badge/Code-nodejs-informational?style=flat&logo=node.js&color=036e02)
+![](https://img.shields.io/badge/Code-express-informational?style=flat&logo=express&color=b2b2b2)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=7348b6)
+![](https://img.shields.io/badge/Code-graphql-informational?style=flat&logo=graphql&color=f500ff)
+![](https://img.shields.io/badge/Code-mongodb-informational?style=flat&logo=mongodb&color=4ba447)
+![](https://img.shields.io/badge/Code-postgresql-informational?style=flat&logo=postgresql&color=31648c)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=01718b)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&color=e84d32)
+![](https://img.shields.io/badge/Code-sass-informational?style=flat&logo=sass&color=c66593)
+![](https://img.shields.io/badge/Code-Material%20UI-informational?style=flat&logo=Mui&color=017bf7)
+![](https://img.shields.io/badge/Code-figma-informational?style=flat&logo=figma&color=ea4b1d)
+![](https://img.shields.io/badge/Code-jira-informational?style=flat&logo=jira&color=2480f7)
+![](https://img.shields.io/badge/Code-canva-informational?style=flat&logo=canva&color=52c9d4)
+![](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&color=1187ff)
+![](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&color=1187ff)
+![](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&color=1187ff)
 
 </br>
 </br>
 
 ### 🤝: Reach me :
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/omar-zaoujal-801b141bb/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Omar Zaoujal | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/oz99__/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Omar Zaoujal | Instagram" width="21px"/></a>
+<a href="wa.link/ca7lxd" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/71842820/175346149-32a4c7bf-6100-4908-9a8d-2a63e0ffacff.png" alt="Omar Zaoujal | whatsapp" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
