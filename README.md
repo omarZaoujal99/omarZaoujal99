@@ -37,6 +37,7 @@
 ![](https://img.shields.io/badge/Code-typescript-informational?style=flat&logo=typescript&color=0072e4)
 ![](https://img.shields.io/badge/Code-jquery-informational?style=flat&logo=jquery&color=0072e4)
 ![](https://img.shields.io/badge/Code-react-informational?style=flat&logo=react&color=5dceed)
+![](https://img.shields.io/badge/Code-react-native-informational?style=flat&logo=react&color=5dceed)
 ![](https://img.shields.io/badge/Code-nodejs-informational?style=flat&logo=node.js&color=036e02)
 ![](https://img.shields.io/badge/Code-express-informational?style=flat&logo=express&color=b2b2b2)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=7348b6)
@@ -50,9 +51,6 @@
 ![](https://img.shields.io/badge/Code-figma-informational?style=flat&logo=figma&color=ea4b1d)
 ![](https://img.shields.io/badge/Code-jira-informational?style=flat&logo=jira&color=2480f7)
 ![](https://img.shields.io/badge/Code-canva-informational?style=flat&logo=canva&color=52c9d4)
-![](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&color=1187ff)
-![](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&color=1187ff)
-![](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&color=1187ff)
 
 </br>
 </br>
