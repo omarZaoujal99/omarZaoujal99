@@ -2,3 +2,5 @@
 ](https://github.com/omarZaoujal99)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omarZaoujal99&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=010AFF00&stroke=FF1045&border=FF1045&ring=FF1045&fire=010AFF&currStreakNum=FF1045&sideNums=FBD385&currStreakLabel=FBD385&sideLabels=FBD385&dates=010AFF)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarZaoujal99&layout=compact)](https://github.com/omarZaoujal99/github-readme-stats)
