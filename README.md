@@ -3,7 +3,7 @@
 
 </br>
 
-### Oz99, 22yo, full stack javascript developer with so much proudness 🤙
+### Omar Zaoujal or Oz99 😄, 22yo, full stack javascript developer with so much proudness 🤙
 ##### ✔️ It doesn't matter how much problems you have, all what you have to care about is the way you handle with its...  ✔️
 
 </br>
