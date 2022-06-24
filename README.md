@@ -57,9 +57,11 @@
 </br>
 </br>
 
-### 🤝: Reach me :
+### 🤝 Reach me :
 <a href="https://www.linkedin.com/in/omar-zaoujal-801b141bb/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Omar Zaoujal | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/oz99__/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Omar Zaoujal | Instagram" width="21px"/></a>
 <a href="wa.link/ca7lxd" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/71842820/175346149-32a4c7bf-6100-4908-9a8d-2a63e0ffacff.png" alt="Omar Zaoujal | whatsapp" width="21px"/></a>
-</br></br>
+
+</br>
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
