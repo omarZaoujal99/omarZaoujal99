@@ -49,8 +49,8 @@
 ![](https://img.shields.io/badge/UI-sass-informational?style=flat&logo=sass&color=c66593)
 ![](https://img.shields.io/badge/UI-Material%20UI-informational?style=flat&logo=Mui&color=017bf7)
 ![](https://img.shields.io/badge/UI-bootstrap-informational?style=flat&logo=bootstrap&color=7348b6)
-![](https://img.shields.io/badge/Tool-swagger-informational?style=flat&logo=swagger&color=80e329)
 ![](https://img.shields.io/badge/UI-figma-informational?style=flat&logo=figma&color=ea4b1d)
+![](https://img.shields.io/badge/Tool-swagger-informational?style=flat&logo=swagger&color=80e329)
 ![](https://img.shields.io/badge/Organization-jira-informational?style=flat&logo=jira&color=2480f7)
 ![](https://img.shields.io/badge/Design-canva-informational?style=flat&logo=canva&color=52c9d4)
 
