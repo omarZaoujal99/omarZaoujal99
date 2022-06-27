@@ -37,7 +37,7 @@
 ![](https://img.shields.io/badge/Code-typescript-informational?style=flat&logo=typescript&color=0072e4)
 ![](https://img.shields.io/badge/Code-jquery-informational?style=flat&logo=jquery&color=0072e4)
 ![](https://img.shields.io/badge/Code-react-informational?style=flat&logo=react&color=5dceed)
-![](https://img.shields.io/badge/Code-react%20native-informational?style=flat&logo=react&color=5dceed)
+<!---![](https://img.shields.io/badge/Code-react%20native-informational?style=flat&logo=react&color=5dceed)--->
 ![](https://img.shields.io/badge/Code-nodejs-informational?style=flat&logo=node.js&color=036e02)
 ![](https://img.shields.io/badge/Code-express-informational?style=flat&logo=express&color=b2b2b2)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=7348b6)
