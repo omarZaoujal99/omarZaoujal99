@@ -29,7 +29,7 @@
 
 </br>
 </br>
-<!--- ![](https://img.shields.io/badge/Code-react%20native-informational?style=flat&logo=react&color=5dceed) --->
+
 ### :hammer_and_wrench: Languages and Tools :
 ![](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&color=f0410f)
 ![](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&color=1187ff)
