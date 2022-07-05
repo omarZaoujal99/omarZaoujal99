@@ -1,6 +1,5 @@
 ![banner (1)](https://user-images.githubusercontent.com/71842820/175347571-57b1e030-4ce6-4b42-b29d-b8c18a5584c9.png)
 
-
 </br>
 
 ### Omar Zaoujal or Oz99 😄, 22yo, full stack javascript developer with so much proudness 🤙
