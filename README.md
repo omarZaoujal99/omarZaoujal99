@@ -12,10 +12,10 @@
 
 ## 🔭 I'm currently working on
 
-- Mobile application (android/IOs) in my current company **4Digital** with **React native**
-- Assiciation **Tanja Madinati** website with wordpress
+- Web Platform (online academy) with Nextjs, React query, MUI...
+- Assiciation **Tanja Madinati** website with MERN Stack
 - Single page web application with so many animations and effects using React 
-- My **React** & **React native** skills
+- Upskilling
 
 </br>
 </br>
