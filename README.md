@@ -2,7 +2,7 @@
 
 </br>
 
-### Full stack javascript developer with so much proudness 🤙
+### Full stack Javascript developer with so much proudness 🤙
 ##### ✔️ It doesn't matter how much problems you have, all what you have to care about is the way you handle with its...  ✔️
 
 </br>
