@@ -20,7 +20,7 @@
 </br>
 </br>
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omarZaoujal99&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=010AFF00&stroke=FF1045&border=FF1045&ring=FF1045&fire=7B162B&currStreakNum=FF1045&sideNums=FBD385&currStreakLabel=FBD385&sideLabels=FBD385&dates=7B162B)](https://git.io/streak-stats)
 
